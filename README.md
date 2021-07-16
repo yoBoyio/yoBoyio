@@ -12,7 +12,7 @@
 #### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/yoBoyio/yoBoyio/edit/main/README.md)
 
 ### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Front-end developer
+- 🖥 Full stack developer
 - 🎓 Studying Software Engineer at IHU SKG
 <br/>
 
