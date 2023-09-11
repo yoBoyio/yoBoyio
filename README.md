@@ -12,8 +12,16 @@
 #### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/yoBoyio/yoBoyio/edit/main/README.md)
 
 ### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Full stack developer
-- 🎓 Studying Software Engineer at IHU SKG
+🖥 Front End Developer
+
+🎓 Bachelor Software Engineer @ International Hellenic University
+
+👨‍🎓 Currently Msc Computer Science Student @ Vrije University 📚
+
+🌐 Exploring the Digital Universe, One Line of Code at a Time 🚀
+
+💡 Passionate about Algorithms, Data Structures, and Software Development 🖥️
+
 <br/>
 
 ### Languages :gear: 
