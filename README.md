@@ -4,21 +4,14 @@
   <a href="https://www.linkedin.com/in/dimitris-tolios-04073a1b4/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100002179378785" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
-  </a>
 </p>
 
-#### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/yoBoyio/yoBoyio/edit/main/README.md)
-
 ### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-🖥 Front End Developer
+🖥 Software Engineer
 
 🎓 Bachelor Software Engineer @ International Hellenic University
 
-👨‍🎓 Currently Msc Computer Science Student @ Vrije University 📚
-
-🌐 Exploring the Digital Universe, One Line of Code at a Time 🚀
+👨‍🎓 Msc Computer Science Student @ Vrije University 📚
 
 💡 Passionate about Algorithms, Data Structures, and Software Development 🖥️
 
